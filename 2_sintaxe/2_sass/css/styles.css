@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/*está no css 
+  blabla
+
+  #{100+20}
+*/
+
+.container {
+  background: #DDD;
+  padding: 20px;
+}
+.container #title {
+  background-color: #111;
+  color: #F1f1f1;
+  padding: 15px;
+  text-align: center;
+}
+
+.container-bottom {
+  background-color: #DDD;
+  text-align: center;
+  padding: 50px;
+}
+
+/*# sourceMappingURL=styles.css.map */
